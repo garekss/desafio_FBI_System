@@ -18,5 +18,3 @@ Contenido: Mensaje de bienvenida con el email del usuario autenticado.
 
 ### Resultado Código: 401 
 `$"error":"401 Unathorized","message":"jwt expired"`
-
-![image](https://github.com/garekss/desafio_FBI_System/assets/159491346/bc2f42e2-8d82-4c58-a7d7-507a7c275ac0)
